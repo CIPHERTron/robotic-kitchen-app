@@ -1,0 +1,51 @@
+.tabs {
+ position: absolute;
+ top: 9% !important;
+ width: 100%;
+}
+
+.MuiBox-root-9{
+ padding: 12px !important;
+}
+
+.MuiTab-textColorSecondary.Mui-selected {
+ color: #4DD8AD !important;
+}
+
+.category-items {
+ list-style: none;
+ 
+}
+
+.category-items li {
+ padding: 1.5rem 1rem !important;
+}
+
+.chartjs-render-monitor {
+ height: 190px !important;
+}
+
+.MuiTypography-body1 {
+ padding-left: 0 !important;
+}
+
+.items-card {
+ /* margin-top: 1.5rem;
+ margin-bottom: 1rem; */
+ margin: 1.5rem 1.2rem 1rem !important;
+ border-radius: 10px;
+ box-shadow: 5px 5px 10px #E7E7E7;
+ background: #F8F8F8;
+}
+
+.items-card h3 {
+ color: #748A9D !important;
+}
+
+.items-card h6 {
+ color: #202020 !important;
+}
+
+.MuiGrid-spacing-xs-3 > .MuiGrid-item {
+ padding: 0 !important;
+}

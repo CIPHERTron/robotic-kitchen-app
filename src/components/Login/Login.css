@@ -1,0 +1,55 @@
+.main-div {
+ height: 100vh !important;
+ padding: 15% 7% !important;
+ background-image: url('../../assets/img2.png');
+ background-repeat: no-repeat;
+ background-position: center;
+ background-size: cover;
+}
+
+.MuiTypography-root {
+ font-weight: 800;
+ padding-left: 2rem;
+ color: #21CE99;
+}
+
+.sub-heading {
+ padding-left: 2rem !important;
+ color: #6E6E6E;
+}
+
+.login-heading {
+ text-align: center;
+ padding-top: 2rem;
+ color: #21CE99;
+}
+
+.entry-fields {
+ margin: 2rem 1rem;
+}
+
+.id-field {
+ width: 100%;
+ margin-bottom: 2rem !important;
+ box-shadow: 2px 2px 10px gray;
+ border-radius: 5px !important;
+}
+
+.store-field {
+ width: 100%;
+ margin-bottom: 2rem !important;
+ box-shadow: 2px 2px 7px gray;
+ border-radius: 5px !important;
+}
+
+.MuiButton-root {
+ width: 100%;
+ padding: 16px !important;
+ background-color: #21CE99 !important;
+}
+
+.login-btn{
+ font-weight: 800 !important;
+ color: white;
+ letter-spacing: 1px;
+}

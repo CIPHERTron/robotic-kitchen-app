@@ -1,0 +1,10 @@
+.MuiBottomNavigation-root {
+ background-color: #F8F8F8 !important;
+ position: fixed;
+ bottom: 0px;
+}
+
+/* MUI svg icon color override (of navigation section) */
+.MuiSvgIcon-colorSecondary {
+ color: #4CD7AC !important;
+}

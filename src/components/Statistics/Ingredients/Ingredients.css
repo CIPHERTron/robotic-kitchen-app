@@ -1,0 +1,11 @@
+.tabs {
+ position: absolute;
+ top: 9% !important;
+ width: 100%;
+}
+
+/* .monthly-chart.chartjs-size-monitor.chartjs-render-monitor */
+
+.monthly-chart>canvas {
+ height: 400px !important;
+}

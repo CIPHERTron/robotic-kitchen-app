@@ -1,0 +1,50 @@
+.tabs {
+ position: absolute;
+ top: 9% !important;
+ width: 100%;
+ overflow-y: scroll;
+}
+
+.MuiBox-root{
+ padding: 0 0 24px !important;
+}
+
+.active-notifications{
+ display: flex;
+ justify-content: space-around;
+ padding: 1.1rem 0;
+}
+
+.completed-notifications {
+ display: flex;
+ justify-content: space-around;
+ padding: 1.1rem 0;
+}
+
+.MuiDivider-vertical {
+ width: 3px !important;
+}
+
+.yellow {
+ height: 10px;
+ width: 10px;
+ background-color: yellow;
+ border-radius: 50%;
+ display: inline-block;
+}
+
+.red {
+ height: 10px;
+ width: 10px;
+ background-color: red;
+ border-radius: 50%;
+ display: inline-block;
+}
+
+.blue {
+ height: 10px;
+ width: 10px;
+ background-color: blue;
+ border-radius: 50%;
+ display: inline-block;
+}

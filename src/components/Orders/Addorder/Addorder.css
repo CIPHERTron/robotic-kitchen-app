@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+.neworder-header {
+ padding: 0 !important;
+ margin: 0 !important;
+ font-family: 'Roboto', sans-serif;
+ /* width: 100vw !important; */
+}
+
+.clear-icon-div {
+ background-color: #F0EDED !important;
+ position: relative;
+ top: 0px;
+ height: 9%;
+ width: 100% !important;
+ padding-top: 5px;
+}
+
+.clear-icon {
+ color: #FE7F54 !important;
+}
+
+.add-order {
+ background-color: #F8F8F8 !important;
+ padding: 13px 10px;
+}
+
+.add-order>h4 {
+ text-align: center;
+ color: #26CF9B;
+ font-weight: 500;
+}
+
+.input-fields{
+ background-color: #F0EDED;
+ margin: 0 !important;
+ padding: 2rem 1rem 0.5rem;
+}
+
+#order-num {
+ width: 296px;
+ height: 48px;
+ margin-left: 5%;
+ border-radius: 10px;
+ margin-bottom: 1.5rem;
+ text-align: center;
+ border: none;
+ box-shadow: 10px 10px 10px #DEE0E9;
+}
+
+#order-details {
+ width: 296px;
+ height: 48px;
+ margin-left: 5%;
+ border-radius: 10px;
+ margin-bottom: 1.5rem;
+ text-align: center;
+ border: none;
+ box-shadow: 10px 10px 10px #DEE0E9;
+}
+ ::placeholder {
+  color: #B4B6B7;
+ }
+/* .input-fields>.MuiInputBase-root{
+ background: white !important;
+} */
+
+.input-box {
+ margin: 1rem 1rem !important;
+ width: 90% !important;
+ box-shadow: 6px 6px 10px #f4f6ff;
+ border-radius: 10px;
+}
+
+.confirm-btn {
+ background-color: #F0EDED !important;
+ color: #21CE99;
+ font-weight: 800;
+ width: 50% !important;
+ padding: 8px;
+ margin: 1.5rem 0 0;
+ position: relative;
+ left: 23%;
+ border-color: #21CE99;
+ border-width: 3px;
+ border-radius: 10px;
+ border-style: solid;
+}
+
+.time-picker {
+ width: fit-content;
+ margin-left: auto;
+ margin-right: auto;
+ 
+}
+
+.ant-picker {
+ padding: 0.8rem 5.8rem;
+}

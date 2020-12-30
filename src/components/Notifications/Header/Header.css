@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+.notificationheader-root  {
+ background-color: #F8F8F8 !important;
+ position: fixed;
+ top: 0px;
+ z-index: 1000000;
+ height: 9%;
+ padding: 10px;
+}
+
+.notification-heading {
+ font-family: 'Roboto', sans-serif;
+ color: #16a596;
+ font-weight: 600;
+ text-align: left;
+}
