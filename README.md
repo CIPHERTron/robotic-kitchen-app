@@ -1,5 +1,5 @@
 # robotic-kitchen-app
-### A web-app that I made for an organization basically to be used by their employees to manage a robotic kitchen.**
+### A web-app that I made for an organization basically to be used by their employees to manage a robotic kitchen.
 
 #### It uses React and Material UI in the frontend and Express in the backend with Mongo DB database.
 
